@@ -1,0 +1,4 @@
+tree # Shows files in a tree structure
+bat # Better cat
+neovim # duh
+btop # Better htop
